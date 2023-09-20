@@ -1,1 +1,3 @@
 # sushiman
+
+npm run dev
